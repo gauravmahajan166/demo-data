@@ -1,3 +1,5 @@
 #!bin/bash
 
+Var=10
+echo "Hi my age is $Var"
 echo "Hi my name is Aakash"

@@ -1,5 +1,8 @@
 #!bin/bash
 
 Var=10
+array=("jalgoan" "Bhusawal")
+
 echo "Hi my age is $Var"
 echo "Hi my name is Aakash"
+echo "Hi my citi is ${array[0]} and my hometown is ${array[1]}"
